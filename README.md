@@ -1,2 +1,2 @@
-# TicTacToe-RL
-Reinforcement Learning Agent playing Tic Tac Toe
+# Tic Tac Toe AI Agent
+AI agent trained to play tic tac toe using reinforcement learning (q learning). 
