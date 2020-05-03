@@ -1,5 +1,6 @@
 # Tic Tac Toe AI Agent
 AI agent trained to play tic tac toe using reinforcement learning (q learning). 
+Environment (env.py) creates a tic tac toe game with 2 users using object oriented programming. We then define the q table as a dictionary with key - value pairs being the states - q values pairs. Then, using the q learning algorithm, we train the agent for 50,000 episodes and track the rewards.
 
 ## Training rewards (moving average every 100 episodes)
 ![Reward](Figure_1.png)
