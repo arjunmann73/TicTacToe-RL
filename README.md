@@ -1,6 +1,10 @@
 # Tic Tac Toe AI Agent
 AI agent trained to play tic tac toe using reinforcement learning (q learning). 
 
+## Training rewards (moving average every 100 episodes)
+![Reward](Figure_1.png)
+
+
 ## Agent goals
 We need a player class which represents our agent, and the player is able to:
  * Choose actions based on current estimation of the states
